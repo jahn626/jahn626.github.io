@@ -12,5 +12,7 @@ h1 {
 
 p1{
   font-size: 30px;
+  line-height: 100px;
+  style="text-align:center;"
   color: white;
 }
